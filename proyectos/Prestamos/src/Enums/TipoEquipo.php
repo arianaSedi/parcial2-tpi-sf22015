@@ -2,6 +2,8 @@
 
 namespace App\Enums;
 
+
+
 enum TipoEquipo() : string{
 
     case laptop = 'laptop'
